@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "css-loader": "^0.16.0",
     "file-loader": "^0.8.4",
     "less": "^2.5.1",
